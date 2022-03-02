@@ -6,10 +6,8 @@ import java.util.TimerTask;
 import javax.swing.*;
 
 
-/**
- *
- * @author bikalpa
- */
+
+ 
 public class TelephoneCallSimulation {
 
     private static final int numOfLines = 8;
